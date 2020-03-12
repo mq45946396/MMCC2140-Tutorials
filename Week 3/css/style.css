@@ -28,3 +28,13 @@ div.heading h1, div.heading h2 {
 div.heading img {
 	border-radius: 50%;
 }
+
+div.body {
+	margin-top: 20px;
+	padding: 0 20px 0;
+	font-size: 2em;
+}
+
+span.bold {
+	font-weight: bold;
+}
